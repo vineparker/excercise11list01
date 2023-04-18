@@ -27,7 +27,7 @@ class Main
     System.out.print(textoTres);
     float num3 = input.nextFloat();
 
-    // calcular o produto do dobro
+    // calculos
     float produto = (num1 + num1) * (num2 - (num2 / 2));
     float soma = (num1 * 3) + num3;
     float potencia = (num3 * num3 * num3);
